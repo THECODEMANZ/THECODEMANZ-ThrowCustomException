@@ -7,4 +7,6 @@
  * There is no need to modify this class.
  */
 public class CustomException extends Exception{
+   
 }
+
